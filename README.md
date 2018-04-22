@@ -4,8 +4,7 @@
 
 Dependencies used are:
 
-<code>
-
+```
 <parent>
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-parent</artifactId>
@@ -21,5 +20,4 @@ Dependencies used are:
 	<groupId>org.springframework.boot</groupId>
 	<artifactId>spring-boot-starter-web</artifactId>
 </dependency>
-
-</code>
+```
