@@ -26,4 +26,4 @@ Dependencies used are:
 
 You can follow [this](https://www.tutorialspoint.com/cassandra/cassandra_installation.htm) tutorial and download it from [here](http://cassandra.apache.org/)
 
-I have changed `listen_address` properties in `cassandra.yaml` (included with this repository). The location of this file (in windows installation) is `DataStax-DDC\apache-cassandra\conf`
+I have changed `listen_address` property in `cassandra.yaml` (included with this repository). The location of this file (in windows installation) is `DataStax-DDC\apache-cassandra\conf`
